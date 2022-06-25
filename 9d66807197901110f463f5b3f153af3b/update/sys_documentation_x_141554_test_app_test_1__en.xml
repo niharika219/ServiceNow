@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Test 1" language="en" table="x_141554_test_app_test_1">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Test 1</label>
+            <language>en</language>
+            <name>x_141554_test_app_test_1</name>
+            <plural>Test 1s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-06-25 13:08:59</sys_created_on>
+            <sys_id>c7c6887197901110f463f5b3f153af7b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Test 1</sys_name>
+            <sys_package display_value="Test App 1" source="x_141554_test_app">9d66807197901110f463f5b3f153af3b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Test App 1">9d66807197901110f463f5b3f153af3b</sys_scope>
+            <sys_update_name>sys_documentation_x_141554_test_app_test_1__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-06-25 13:08:59</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

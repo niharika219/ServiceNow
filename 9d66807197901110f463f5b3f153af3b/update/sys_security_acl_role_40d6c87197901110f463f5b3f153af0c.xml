@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-25 13:09:04</sys_created_on>
+        <sys_id>40d6c87197901110f463f5b3f153af0c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_141554_test_app_test_1.x_141554_test_app.admin</sys_name>
+        <sys_package display_value="Test App 1" source="x_141554_test_app">9d66807197901110f463f5b3f153af3b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test App 1">9d66807197901110f463f5b3f153af3b</sys_scope>
+        <sys_security_acl display_value="x_141554_test_app_test_1">c0d6c0fd97501110f463f5b3f153afe0</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_40d6c87197901110f463f5b3f153af0c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-25 13:09:04</sys_updated_on>
+        <sys_user_role display_value="x_141554_test_app.admin" name="x_141554_test_app.admin">1976447197901110f463f5b3f153afd7</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

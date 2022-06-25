@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>Test 1</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Test 1</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">55464cb521120110a866589604c20d56</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-25 13:08:59</sys_created_on>
+        <sys_id>4fc6887197901110f463f5b3f153af74</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test 1</sys_name>
+        <sys_package display_value="Test App 1" source="x_141554_test_app">9d66807197901110f463f5b3f153af3b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test App 1">9d66807197901110f463f5b3f153af3b</sys_scope>
+        <sys_update_name>sys_wizard_answer_4fc6887197901110f463f5b3f153af74</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-25 13:08:59</sys_updated_on>
+        <table/>
+        <target_url>x_141554_test_app_test_1.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>
